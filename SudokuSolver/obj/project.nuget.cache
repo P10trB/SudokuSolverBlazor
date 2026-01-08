@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4guswhqL7Us=",
+  "success": true,
+  "projectFilePath": "/home/piotrek/RiderProjects/SudokuSolver/SudokuSolver/SudokuSolver.csproj",
+  "expectedPackageFiles": [
+    "/home/piotrek/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.1/microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
